@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/build/java"/>
+	<classpathentry kind="src" path="src/demo/java"/>
+	<classpathentry kind="src" path="src/generated/java"/>
+	<classpathentry kind="src" path="src/legacy/java"/>
+	<classpathentry kind="src" path="src/main/core-api/java"/>
+	<classpathentry kind="src" path="src/main/core-impl/java"/>
+	<classpathentry kind="src" path="src/main/protocol-impl/java"/>
+	<classpathentry kind="src" path="src/main/user-api/java"/>
+	<classpathentry kind="src" path="src/main/user-impl/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="lib" path="mysql-connector-j-9.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
